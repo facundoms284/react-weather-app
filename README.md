@@ -1,2 +1,2 @@
-# react-weather-app
-This is a simple weather app that uses the OpenWeatherMap API to fetch weather data for a given city.
+# Weather App created using VITE React.
+To use the app, enter a city name in the search bar and click the "Search" button.
